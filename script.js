@@ -39,5 +39,17 @@ switch (num) {
 	default:
 		console.log('не в этот раз');
 		break;
+}
+// while (num < 55) {
+//  console.log(num);
+//  num++;
+// }
+// do {
+//   console.log(num);
+//   num++;
+// }
+// while (num < 53);
 
+for (let i = 1; i < 5; i++) {
+  console.log(i);
 }
